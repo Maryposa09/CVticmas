@@ -1,1 +1,1 @@
-# https://github.com/Maryposa09/CVticmas.git
+# https://maryposa09.github.io/CVticmas/
